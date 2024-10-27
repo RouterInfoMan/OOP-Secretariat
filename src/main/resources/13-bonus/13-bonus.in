@@ -1,0 +1,23 @@
+adauga_student - master - Tomescu
+adauga_student - master - Ciobanu
+adauga_student - master - Ricu
+adauga_student - licenta - Lipan
+adauga_student - licenta - Rotaru
+citeste_mediile
+adauga_curs - master - MC - 1
+adauga_curs - master - MF - 1
+adauga_curs - master - BT - 1
+adauga_curs - master - AN - 1
+adauga_curs - licenta - IA4 - 1
+adauga_curs - licenta - Msp - 1
+adauga_preferinte - Rotaru - IA4
+adauga_preferinte - Lipan - IA4
+adauga_preferinte - Ciobanu - BT - MF
+adauga_preferinte - Tomescu - BT
+adauga_preferinte - Ricu - MF - BT
+repartizeaza
+posteaza_student - Tomescu
+posteaza_student - Ciobanu
+posteaza_student - Ricu
+posteaza_student - Lipan
+posteaza_student - Rotaru
